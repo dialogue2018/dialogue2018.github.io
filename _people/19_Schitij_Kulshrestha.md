@@ -6,6 +6,8 @@ image_path: /img/Schitij DP.jpeg
 
 <p><b>Batch:</b>YIF 2015</p>
 
+<p align="center">
+<img src="../../img/Schitij DP.jpg"></p>
 
 <!--Title: <b>Multiple Titles</b>-->
 
