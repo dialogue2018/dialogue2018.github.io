@@ -1,7 +1,7 @@
 ---
-title: Kriti Garg
+title: Anurag Reddy Ramireddy
 subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+image_path: /img/Anurag DP.jpeg
 ---
 
 <p>Batch:<b>UG 2018</b></p>
@@ -10,25 +10,23 @@ image_path: /img/hello_world.jpeg
 <!--Title: <b>Multiple Titles</b>-->
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Anurag DP.jpg"></p>
 
 Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
+Use of bold colours and impressionistic brush strokes speak volumes about the uinhibited candor of Anurag's artwork
 
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
 
 The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
+As a child, Anurag loved playing with colors; he exploited this passion for art and developed himself as a proficient and specialist oil painter. He is an ardent supporter of Manchester United and the Indian Cricket Team. His love for India, its politics, history and governance also developed at a young age and he hopes to further explore and broaden his knowledge in these fields during his time at the Fellowship.
+He has a strong belief that people are a product of not only their own experiences but also the effect of society that they are a part of. Further, he believes that every interaction with an individual is unique and one can learn something from it. He trusts that the Fellowship will help him orchestrate his ideas and accentuate his skills to not only aid his personal growth but also help in societal progression.
+
+Favourite Quote:“The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.” - Marcel Proust
 
 Contact:
 
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
+<a href="https://www.facebook.com/anurag.ramireddy" class="fa fa-facebook"></a>
+<a href="anuragreddy.ramireddy_yif18@ashoka.edu.in" class="fa fa-envelope"></a>
+
 
 
 
