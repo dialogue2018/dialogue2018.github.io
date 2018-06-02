@@ -4,7 +4,7 @@ subtitle: Multiple titles
 image_path: /img/Ritika DP.jpeg
 ---
 
-<p>Batch:<b>YIF 2018</b></p>
+<p><b>Batch:</b>YIF 2018</p>
 
 
 <!--Title: <b>Multiple Titles</b>-->
