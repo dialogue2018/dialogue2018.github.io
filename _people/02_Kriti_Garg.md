@@ -1,13 +1,13 @@
 ---
 title: Kriti Garg
 subtitle: Multiple Titles
-image_path: /img/Rohit DP.jpg
+image_path: /img/Kriti DP.jpg
 ---
 
 <p><b>BATCH:</b>YIF 2017</p>
 
 <p align="center">
-<img src="../../img/Rohit DP.jpg"></p>
+<img src="../../img/Kriti DP.jpg"></p>
 
 <b>THE ARTIST:</b>
 <br />
