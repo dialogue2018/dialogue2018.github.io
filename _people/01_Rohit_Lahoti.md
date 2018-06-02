@@ -9,7 +9,7 @@ image_path: /img/Rohit DP.jpg
 <p align="center">
 <img src="../../img/Rohit DP.jpg"></p>
 
-THE ARTIST:
+<b>THE ARTIST:<b>
 <br />
 I am currently associated as a Research Consultant with the University of Chicago for a project that is based in India. I worked as a Research Associate with Architect Sameep Padora before this. Prior to this, I completed my Young India Fellowship (A Liberal Studies programme which entails multi-disciplinary learning) from the Ashoka University in Sonepat, Haryana. Before this, I completed my B.Arch. from VNIT Nagpur in May 2014 and worked for 2 years in Ahmedabad (HCPDPM) and Mumbai (PK Das & Associates). Till date, I have couple of international publications and an opportunity for a public exhibition of my Bachelor's thesis.
 
