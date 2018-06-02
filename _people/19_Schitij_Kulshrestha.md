@@ -1,34 +1,24 @@
 ---
-title: Kriti Garg
+title: Schitij Kulshrestha
 subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+image_path: /img/Schitij DP.jpeg
 ---
 
-<p>Batch:<b>UG 2018</b></p>
+<p><b>Batch:</b>YIF 2015</p>
 
 
 <!--Title: <b>Multiple Titles</b>-->
 
-<p align="center">
-<img src="../../img/01/1.jpg"></p>
+<b>Curatorial Note:</b>
+Representing Schitij at the Weekender (his words, not ours!), these works are an ode to his life in Bombay as it turn to Mumbai
 
-Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
 
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
+<b>The Artist:</b>
+If you still can’t spell his name correctly, we don’t blame you. Schitij earned many a nickname at the Fellowship but what remained constant was his love for sport. He took his passion to his ELM too and he did many cool things while being high. Our multi-talented man spearheaded several sporting initiatives on campus and got his hands dirty baking too! Jokes apart, anyone who knew Schitij came to know the wonderful, level-headed person he was, and the warmth he shared with the people whose paths he crossed. Schitij could have a really deep, thoughtful conversation one minute, and display an almost childlike love for food the next instant! Having built some strong bonds with fellows over the course of the Fellowship, Schitij moved to Mumbai to join NRB Bearings after YIF.
 
-The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
+<b>Contact:</b>
 
-Contact:
-
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
+<a href="https://www.facebook.com/schitij" class="fa fa-facebook"></a>
 
 
 
