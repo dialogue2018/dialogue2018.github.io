@@ -1,7 +1,7 @@
 ---
 title: Rohit Lahoti, YIF 2017
 subtitle: The Water-Deficit Life of Marathwada, India
-image_path: /img/hello_world.jpeg
+image_path: img/Rohit DP.jpg
 ---
 <img src="dialogue2018.github.io/img/Rohit DP.jpg"></p>
 <p align="left">
