@@ -1,36 +1,36 @@
 ---
-title: Kriti Garg
-subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+title: Gaurav Wadhawan
+subtitle: 
+image_path: /img/Gaurav DP.jpg
 ---
 
-<p>Batch:<b>UG 2018</b></p>
-
-
-<!--Title: <b>Multiple Titles</b>-->
+<p><b>BATCH:</b>YIF 2016</p>
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Gaurav DP.jpg"></p>
 
-Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
+<b>CURATORIAL NOTE:</b>
+<br />
+Consistently noticing the mundane and framing it in a context, Gaurav's vision captures even the most minute reverberation of floral life present right at our feet.
 
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
+1. What takes you to the sea?
+2. My life is game.
+3. There is a whole way of looking that takes you to the sea (1).
+4. There is a whole way of looking that takes you to the sea (2).
+5.  There is a whole way of looking that takes you to the sea (3).
+6. Christ first went to a place of joy. He who loves men, loves their joy. - Brother's Karamazov, Dostovesky
+7. Why is the wee one crying, I want to make him happy. - Brother's Karamazov, Dostovesky
+8. Against eternal injustice, man must assert justice, and to protest against the universe of grief, man must create happiness. - Camus
 
-The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
+<br />
 
-Contact:
+<b>THE ARTIST:</b>
+<br />
+My work helps me explore ideas through a personal narrative. The set of water color paintings came about while I was trying to express myself with simple lines. I was thinking about how color and lines can be used together. A main idea that I was following, was the accessibility of means like the game Blue Whale which takes people to an end. 
+I was also reading Dostovesky, Milan Kundera and Camus while I was working of these set of paintings. I think ideas from these books also came into my work. So I have used some lines from Dostovesky and Camus's books as my titles.
 
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
-
-
-
-
+<br />
+<b>CONTACT LINKS:</b>
+<br />
+<a href="https://www.facebook.com/gaurav.wadhawan.77" class="fa fa-facebook"></a>
 
