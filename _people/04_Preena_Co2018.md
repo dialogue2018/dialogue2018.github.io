@@ -1,35 +1,27 @@
 ---
-title: Kriti Garg
-subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+title: Preena Gadra
+subtitle: Multiple Titles
+image_path: /img/Preena DP.jpg
 ---
 
-<p>Batch:<b>UG 2018</b></p>
-
-
-<!--Title: <b>Multiple Titles</b>-->
+<p><b>BATCH:</b>YIF 2018</p>
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Preena DP.jpg"></p>
 
-Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
 
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
+<b>ARTIST:</b>
+<br />
+Preena is an Economics graduate from the Shri Ram College of Commerce. With varied interests, she firmly believes in strong ideation and stronger execution. Independent and competitive, she likes wearing the creative hat. She possesses a 'getting things done' attitude when it comes to work, even if it is midnight. A risk-taker, a start-up enthusiast and a budding social entrepreneur, she loves to dream big. It was pretty early in her life when she realised that social entrepreneurship is what she is meant for. She has a strong tendency of relating instantly with people around, that reflects her capability in building strong bonds with people from diverse backgrounds she has worked with - artists, corporate professionals,entrepreneurs, and children.
 
-The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
+She doesn't want people to shrink so they can squeeze themselves into small places and small minds. Grow. It's a big world. There's room, everyone will eventually fit.
 
-Contact:
+Favourite Quote:"We cannot be sure of having something to live for unless we are willing to die for it." - Che Guevara
 
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
-
+<br />
+<b>CONTACT LINKS:</b>
+<br />
+<a href="https://www.facebook.com/preena.gadra.75" class="fa fa-facebook"></a>
 
 
 
