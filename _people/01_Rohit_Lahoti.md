@@ -13,9 +13,13 @@ I reached Latur station early Saturday morning and knew I had just two days, wit
 
 <p align="center">
 <img src="dialogue2018.github.io/img/Rohit1.jpg"></p>
+<p align="center">
 <img src="dialogue2018.github.io/img/Rohit2.jpg"></p>
+<p align="center">
 <img src="dialogue2018.github.io/img/Rohit3.jpg"></p>
+<p align="center">
 <img src="dialogue2018.github.io/img/Rohit4.jpg"></p>
+<p align="center">
 <img src="dialogue2018.github.io/img/Rohit5.jpg"></p>
 
 Contact:
