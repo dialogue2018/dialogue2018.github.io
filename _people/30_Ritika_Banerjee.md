@@ -10,14 +10,11 @@ image_path: /img/Ritika DP.jpeg
 <!--Title: <b>Multiple Titles</b>-->
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Ritika DP.jpg"></p>
 
 Curatorial Note:
 <br/>
 Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
-
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
 
 The Artist:
 <br/>
