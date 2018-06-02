@@ -27,8 +27,3 @@ Contact:
 <a href="https://kritiart.com" class="fa fa-wordpress"></a>
 <a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
 <a href="#" class="fa fa-phone"></a>
-
-
-
-
-
