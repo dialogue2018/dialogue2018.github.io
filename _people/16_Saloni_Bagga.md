@@ -1,34 +1,31 @@
 ---
-title: Kriti Garg
-subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+title: Saloni Bagga
+subtitle: Theatrics of Nature
+image_path: /img/Saloni DP.jpeg
 ---
 
-<p>Batch:<b>UG 2018</b></p>
+<p><b>Batch:</b>YIF 2018</p>
 
 
 <!--Title: <b>Multiple Titles</b>-->
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Saloni DP.jpg"></p>
 
-Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
+<b>CURATORIAL NOTE:</b>
+Encasing the movement in the sky, this is a temporal pause created by Saloni
 
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
+<b>THE ARTIST:</b>
+<br />
+Saloni Bagga, a B.A. graduate in economics and mathematics from Lady Shri Ram College, strongly believes in the philosophy of 'regression to the mean', a concept in statistics which means that eventually everything evens out; periods of highs will be followed by periods of lows and everything will balance out.
+Saloni has always been an academic achiever, not only did she top class 12th in DPS, Bangalore with a 95%, her outstanding performance in college led her to be awarded with the “Overall Achiever of the Department for the year 2015- 2016”. She was also the department nominee for the "Faculty Prize - overall achiever of the college" for 2017. During her graduation, in her endeavour to discover her innate capabilities, she joined ENACTUS LSR, a social entrepreneurial community with an aim of making people’s lives better with the help of innovation and creativity. Subsequently, she became the project head of one of the projects of Enactus and represented college at the national level. Saloni is an ardent listener of international music and believes that the beauty of music lies in its distinctive power to heal people. It is because of her interest in music that she interned with 94.3 Radio One, Delhi in June 2015. Her interests range from binge watching tv series, to sketching portraits, to reading books.Being inquisitive since birth, Saloni’s journey to quench her insatiable thirst for knowledge landed her up in YIF.
 
-The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
+Favourite Quote: "Mama always said "Life was like a box of chocolates, you never know what you're gonna get." ~ Forrest Gump (Movie)
 
-Contact:
+<b>CONTACT LINKS:</b>
 
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
+<a href="https://www.facebook.com/profile.php?id=100005098038507" class="fa fa-facebook"></a>
+
 
 
 
