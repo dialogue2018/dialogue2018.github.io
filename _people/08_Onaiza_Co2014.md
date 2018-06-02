@@ -1,36 +1,29 @@
 ---
-title: Kriti Garg
-subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+title: Onaiza Drabu
+subtitle: Daak- Postcards from the Attic
+image_path: /img/Onaiza DP.jpg
 ---
 
-<p>Batch:<b>UG 2018</b></p>
-
-
-<!--Title: <b>Multiple Titles</b>-->
+<p><b>BATCH:</b>YIF 2014</p>
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Onaiza DP.jpg"></p>
 
-Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
+<b>CURATORIAL NOTE:</b>
+<br />
+While re-contextualising poetry and prose of yesteryear through the Daak initative, a need for solace and knowledge is satiated through Onaiza's handcrafted postcards 
 
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
+<b>ARTIST:</b>
+<br />
+Onaiza Drabu is a recent graduate in anthropology from the University of Oxford. Her research focusses on identity and nationalism in Kashmir.
 
-The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
-
-Contact:
-
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
+Before you ask, my name means the ‘first drop of dew’. It was only natural that I grew up to appreciate all things beautiful. Words, colours and shapes are how I see this world. You’ll find glimpses of these here. I am interested in a series of odd and disconnected things, but everything I capture in photographs or trap in words or colour in paintings has the connecting thread of beauty associated with it.
 
 
+<br />
+<b>CONTACT LINKS:</b>
+<br />
+<a href="https://www.facebook.com/onaizadrabu" class="fa fa-facebook"></a>
 
 
 
