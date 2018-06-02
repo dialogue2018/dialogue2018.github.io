@@ -4,7 +4,7 @@ subtitle: The Water-Deficit Life of Marathwada, India
 image_path: /img/Rohit DP.jpg
 ---
 
-<p><b>Batch:</b>YIF 2017</p>
+<p><b>BATCH:</b>YIF 2017</p>
 
 <p align="center">
 <img src="../../img/Rohit DP.jpg"></p>
