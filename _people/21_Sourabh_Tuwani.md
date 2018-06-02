@@ -1,34 +1,29 @@
 ---
-title: Kriti Garg
-subtitle: Multiple titles
-image_path: /img/hello_world.jpeg
+title: Sourabh Tuwani
+subtitle: Frozen - Let it Go
+image_path: /img/Sourabh DP.jpeg
 ---
 
-<p>Batch:<b>UG 2018</b></p>
+<p>Batch:<b>YIF 2018</b></p>
 
-
-<!--Title: <b>Multiple Titles</b>-->
 
 <p align="center">
-<img src="../../img/01/1.jpg"></p>
+<img src="../../img/Sourabh DP.jpg"></p>
 
 Curatorial Note:
-Delving into the simplicity of the mundane of life, Kriti's work reflects both simplicity and depth of how she sees her surroundings.
-
-<p align="center">
-<img src="../../img/01/2.jpg"></p>
+Sourabh's sky also provides a subtle window with its opaque blue
 
 The Artist:
-I am a senior year college student with an economics major. My name means creation and I try to live up to it through sketching. With a knack for hyperrealism, I continue to experiment with different mediums. I did my first ‘realistic’-like sketch in 11th grade and soon developed the curiosity to observe even the tiniest of the details in mundane things. 
-Since am not formally trained as an artist, hit and trial has been my main mode of learning apart from the genetic benefit. Experimenting is crucial to the process of learning and knowing one’s own art according to me. This is my experiment to know mine better! 
+Experience is the best teacher this has been the guiding principle for Sourabh, he is the first in his family to take up engineering as an undergraduate degree at SRM University, Chennai.
 
-Contact:
+He stayed in a hostel from class 9th which led him to learn many new things from his friends and seniors, the 4 years in hostel changed his life as he came across a variety of individuals who made an impact in his career and personal choices. he loves playing basketball and table tennis and has played at district level tournaments.
 
-<a href="https://www.facebook.com/kritiartwork" class="fa fa-facebook"></a>
-<a href="https://instagram.com/kriti_art" class="fa fa-instagram"></a>
-<a href="https://kritiart.com" class="fa fa-wordpress"></a>
-<a href="kriti.garg@ashoka.edu.in" class="fa fa-envelope"></a>
-<a href="#" class="fa fa-phone"></a>
+Heavy machines, mining always made him curious to learn more about the same and led him to complete his Internship at Volvo Construction Equipment. He was a part of the organizing team of various workshops held at SRM, he worked for Engineers without borders, India as a student member and eventually led a team of 40 people towards building a better society by providing infrastructure facilities. Working in this made him realize his passion for social work and development through creating and building rather than donation, he believes education is the key to all sustainable goals.
+
+Travelling and learning from experience of people have always inspired him as every individual has a great story to tell.
+
+Favourite Quote:"The only source of knowledge is experience & Be the change you wish to see in others"
+
 
 
 
