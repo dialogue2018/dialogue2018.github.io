@@ -17,7 +17,15 @@ Keshav's double entrendre titles itself lend to a vision that teases the viewer 
 
 <b>THE ARTIST:</b>
 <br />
-I am currently associated as a Research Consultant with the University of Chicago for a project that is based in India. I worked as a Research Associate with Architect Sameep Padora before this. Prior to this, I completed my Young India Fellowship (A Liberal Studies programme which entails multi-disciplinary learning) from the Ashoka University in Sonepat, Haryana. Before this, I completed my B.Arch. from VNIT Nagpur in May 2014 and worked for 2 years in Ahmedabad (HCPDPM) and Mumbai (PK Das & Associates). Till date, I have couple of international publications and an opportunity for a public exhibition of my Bachelor's thesis.
+Keshav believes that beauty, however one may choose to define it, surely dwells as much in the concrete and metro trains, as it does in the rivers, lakes, and mountains. All one needs is the right head tilt.
+
+He loves playing with reflections, perspective, depth, and gradient of colours. Sometimes, he finds the world on the other side of reflection more real. Having loved and explored architecture, landscape, and street photography, Keshav is now trying out his hand at conceptual photography.
+
+When asked about his favourite camera, he would answer ‘Samsung Galaxy Ace’, for it is with that 5MP camera he began his photography journey. Most of his photos are clicked on a phone. He has tried to reach for the stars via a DSLR but he failed (so he settled for the moon), he wishes to learn how to use one soon.
+
+His work assuages the aesthetic sense of the viewers but to him, his photographs are just the moments which he wanted to steal away from time.
+
+Every snap has a story. 
 
 <br />
 <b>CONTACT LINKS:</b>
