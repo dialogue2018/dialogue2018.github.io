@@ -13,6 +13,21 @@ image_path: /img/Gaurav DP.jpg
 <br />
 Consistently noticing the mundane and framing it in a context, Gaurav's vision captures even the most minute reverberation of floral life present right at our feet.
 
+<p align="center">
+<img src="../../img/GW1.jpg"></p>
+<br />
+What takes you to the sea?
+<br />
+<p align="center">
+<img src="../../img/GW2.jpg"></p>
+<br />
+<p align="center">
+<img src="../../img/GW3.jpg"></p>
+<br />
+<p align="center">
+<img src="../../img/GW4.jpg"></p>
+<br />
+
 <br />
 
 <b>THE ARTIST:</b>
