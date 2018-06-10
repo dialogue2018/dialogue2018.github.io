@@ -22,7 +22,7 @@ description: ASHOKA ART GALLERY ALUMNI WEEKENDER EXHIBITION
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   The People:
     - List of people: "./people"
 
