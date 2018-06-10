@@ -13,21 +13,14 @@ image_path: /img/Gaurav DP.jpg
 <br />
 Consistently noticing the mundane and framing it in a context, Gaurav's vision captures even the most minute reverberation of floral life present right at our feet.
 
-1. What takes you to the sea?
-2. My life is game.
-3. There is a whole way of looking that takes you to the sea (1).
-4. There is a whole way of looking that takes you to the sea (2).
-5.  There is a whole way of looking that takes you to the sea (3).
-6. Christ first went to a place of joy. He who loves men, loves their joy. - Brother's Karamazov, Dostovesky
-7. Why is the wee one crying, I want to make him happy. - Brother's Karamazov, Dostovesky
-8. Against eternal injustice, man must assert justice, and to protest against the universe of grief, man must create happiness. - Camus
-
 <br />
 
 <b>THE ARTIST:</b>
 <br />
-My work helps me explore ideas through a personal narrative. The set of water color paintings came about while I was trying to express myself with simple lines. I was thinking about how color and lines can be used together. A main idea that I was following, was the accessibility of means like the game Blue Whale which takes people to an end. 
-I was also reading Dostovesky, Milan Kundera and Camus while I was working of these set of paintings. I think ideas from these books also came into my work. So I have used some lines from Dostovesky and Camus's books as my titles.
+My work helps me explore ideas through a personal narrative. The water color paintings came about while I was trying to express myself with simple lines. I was thinking about how color and lines can be used together. A main idea that I was following was the accessibility of means like the game Blue Whale, the phenomena on internet that leads teenagers to suicide. I find it connected with a broader idea of meaninglessness. These ideas are present in authors like Dostovesky, Milan Kundera and Albert Camus. Through my work I want to explore the growing narrative of meaninglessness and its implications. Also, what are the measures that can be used to counter it. 
+
+I find nature as the source of all kind of forms. Through photography I am on a constant look out for beautifully formed compositions with fallen leaves, flowers and stems. 
+
 
 <br />
 <b>CONTACT LINKS:</b>
