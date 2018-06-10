@@ -22,7 +22,7 @@ I find nature as the source of all kind of forms. Through photography I am on a 
 <p align="center">What takes you to the sea?
 <br />
 <br />
-Consistently noticing the mundane and framing it in a context, in my photographs below, I have tried to capture even the most minute reverberation of floral life present right at our feet.
+<p align="left">This is some text in a paragraph.</p>Consistently noticing the mundane and framing it in a context, in my photographs below, I have tried to capture even the most minute reverberation of floral life present right at our feet.</p>
 <br />
   
 <p align="center">
